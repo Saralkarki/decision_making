@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}  
+#main-title{
+    color:red;
+    text-align: center;
+    margin-top: 20px;
+}
+#main{
+    background: white;
+    height: 100vh;
+}
+.des{
+    margin: 20px;
+}
+input[type="text"]{
+    background-color:rgb(192, 165, 165) !important;  
+    }
